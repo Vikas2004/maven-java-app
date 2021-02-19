@@ -1,7 +1,7 @@
 # maven-java-app
 This is a maven java application.
 
-## Command to create MAven Project:
+## Command to create Maven Project:
 
 - Open powershell and use the following command.
 ```mvn archetype:generate```
