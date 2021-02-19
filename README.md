@@ -18,6 +18,6 @@ This is a maven java application.
  ``` mvn clean```
  
  - Verify using the following commands
- ```mvn clean
-    mvn compile```
+ ```mvn clean```
+ ```mvn compile```
     
